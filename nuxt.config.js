@@ -72,5 +72,7 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {
+    // https://ja.nuxtjs.org/api/configuration-build/#hardsource
+    hardSource: true,
   }
 }
